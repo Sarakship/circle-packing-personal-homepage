@@ -2,7 +2,7 @@
 	"Title": "Sarakshi Phate | Personal Webpage",
 	"Name": "Sarakshi Phate",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
+		"Third Year student from Veermata Jijabai Technological Institute,majoring in Computer Science. Passionate about Web Development, Data Science  and Competitve Coding.",
 		"I grab every chance I get to travel, learn and create."
 	],
 	"MainImage": "https://imgur.com/OWhcbPz",
@@ -10,13 +10,16 @@
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+		"I'm a Computer Science Major who loves to code ,create and repeat.",
+		"Apart from being a passionate coder ,I'm also a passionate dancer.",
+		
+		"I'm an optimistic person always who never is tired to learn .  ",
+		"Coding never fails to create excitment in me whenever I create something new,and also maiantains my constant urge to learn and improve.",
+		"I love to work to my full capacity and in awe of challenges that are difficult to complete.Challenges are what makes work fun and interesting,and once complete the sense of achievement is absolute. ",
+		"I aspire to become a Data Scientist or Developer in Google,and strive everyday to make my dream become a reality"
 	],
 
-	"WorkContent": [
+	/*"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
 	],
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
@@ -33,36 +36,33 @@
 			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
 			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
 		}
-	],
+	],*/
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "Vjgarm",
+			"link": "https://github.com/shivanipawar00/VJgram"
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"name": "Subway Website",
+			"link": "https://github.com/Devanshi1500/Subway"
 		},
 		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+			"name": "Event Management Website",
+			"link": "https://github.com/pal-16/event-management-website"
 		},
-		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
-		}
+		
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"CV": "https://www.visualcv.com/aditya-ketkar/",
 	"Resume": "https://drive.google.com/file/d/1yhfRELr2NYqAjbajnWGX0SfFmoK3r7d7/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:phatesarakshi@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/sarakshi-phate-0073201b0/",
+	//"wordpress": "https://technoshblog.wordpress.com/",
+	//"facebook": "https://www.facebook.com/aditya",
+	"github": "https://github.com/Sarakship",
+	"instagram": "https://www.instagram.com/sxrxkshi",
+	//"twitter": "https://twitter.com/ketkar_a",
+	//"medium": "https://medium.com/@ketkaraditya"
 }

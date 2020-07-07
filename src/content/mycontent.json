@@ -12,31 +12,14 @@
 	"AboutContent": [
 		"I'm a Computer Science Major who loves to code ,create and repeat.",
 		"Apart from being a passionate coder ,I'm also a passionate dancer.",
-		
+
 		"I'm an optimistic person always who never is tired to learn .  ",
 		"Coding never fails to create excitment in me whenever I create something new,and also maiantains my constant urge to learn and improve.",
 		"I love to work to my full capacity and in awe of challenges that are difficult to complete.Challenges are what makes work fun and interesting,and once complete the sense of achievement is absolute. ",
 		"I aspire to become a Data Scientist or Developer in Google,and strive everyday to make my dream become a reality"
 	],
 
-	/*"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
-	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
-	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
-		},
-		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
-		}
-	],*/
+
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
 			"name": "Vjgarm",
@@ -49,8 +32,8 @@
 		{
 			"name": "Event Management Website",
 			"link": "https://github.com/pal-16/event-management-website"
-		},
-		
+		}
+
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
@@ -59,10 +42,8 @@
 
 	"emailid": "mailto:phatesarakshi@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/sarakshi-phate-0073201b0/",
-	//"wordpress": "https://technoshblog.wordpress.com/",
-	//"facebook": "https://www.facebook.com/aditya",
+
 	"github": "https://github.com/Sarakship",
-	"instagram": "https://www.instagram.com/sxrxkshi",
-	//"twitter": "https://twitter.com/ketkar_a",
-	//"medium": "https://medium.com/@ketkaraditya"
+	"instagram": "https://www.instagram.com/sxrxkshi"
+
 }
